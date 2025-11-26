@@ -13,18 +13,9 @@ Looking to learn new things and technologies.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,figma,github,gmail,notion,sublime,vscode,windows,wordpress&perline=5" />
+    <img src="https://skillicons.dev/icons?i=discord,figma,github,gmail,notion,sublime,vscode,windows,wordpress&perline=10" />
     <img src="https://skillicons.dev/icons?i=html,css,js,py&perline=10" />
   </a>
-</p>
-
----
-
-### 📊 GitHub statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcoc1h&show_icons=true&theme=radical" alt="Statistiques" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoc1h&layout=compact&theme=radical" alt="Langages les plus utilisés" />
 </p>
 
 ---

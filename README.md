@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 
 - 🔭 I’m currently working on cool things
 - 🌱 I’m currently learning cool things
@@ -9,4 +8,4 @@
 - 💬 Ask me about cool things
 - 📫 How to reach me: here
 - ⚡ Fun fact: i love cool things
--->
+
